@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tass1018
 - 👀 Learning and trying fun staff!
-- 🌱 [C++] [Java] [Python]
-- 💞️ I’m looking to collaborate on ...
+- 🌱 [C/C++] [Python]
 - 📫 tasshu2001@outlook.com
 
 <!---
